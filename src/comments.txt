@@ -1,0 +1,16 @@
+1**jan**Super stronka!**
+2**sawek**Moj drugi komentarz!**
+3**sawek**Moj trzeci komentarz!**
+1**sawek**Moj pierwszy komentarz!**
+3**sawek**Moj czwarty komentarz!**
+1**jan**Super stronka!**
+2**jan**Super stronka!**
+3**jan**Super stronka!**
+4**jan**Super stronka!**
+1**suarez**Ciekawe!!!**
+1**haker**&lt;script&gt;alert(&quot;hah&quot;)&lt;/script&gt;**
+1**haker**&quot;&lt;script&gt;alert(&quot;hah&quot;)&lt;/script&gt;&quot;**
+1**haker**Co za zabepieczenia :/**
+4**1**niezły przykład**4**1**123**
+2**1**wow**
+2**1**wow wow**
