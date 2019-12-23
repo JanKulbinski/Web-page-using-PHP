@@ -9,4 +9,4 @@ Simple web page about some cryptography problems, served by PHP server, created 
 - ability to register, log in, log out and add comment (for logged-in users)
 - auto log out after 5 minutes of inactivity
 - a lot of math is presented on page by MathJax
-- pure css, html and js without any frameworks and libraries (exc. MathJax)  
+- pure css, html and js without any frameworks nor libraries (exc. MathJax)  
