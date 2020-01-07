@@ -77,7 +77,8 @@ if (isset($_POST['log_user'])) {
 
 if (isset($_POST['log_out'])) {
 	$_SESSION['login'] = false;
-	session_unset(); 	
+	session_unset();
+	session_destroy(); 	
 }
 
 if(isset($_POST['add_comment'])) {
