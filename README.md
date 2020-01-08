@@ -1,7 +1,7 @@
 # Web-page-using-PHP
 ![App screenshot](screenShot.png?raw=true)
 
-## What it is? 
+## What is it? 
 Simple web page about some cryptography problems, served by PHP server, created within 'WWW technologies' course.
 
 ## Features:
